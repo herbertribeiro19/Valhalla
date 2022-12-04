@@ -1,6 +1,6 @@
-# Valhalla
+# Assassins Creed Valhalla - LandingPage
 
-> Projeto Real de uma página oficial para o God Of War, jogo exclusivo da Sony, lançado em novembro de 2022.
+> Projeto Real de uma página oficial para o Assassins Creed Valhalla.
 
 ![PREVIEW](./assets/preview.png)
 
